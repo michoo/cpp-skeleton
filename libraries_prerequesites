@@ -4,6 +4,11 @@ doxygen
 libpqxx-4.0
 libpqxx-dev
 postgresql-server-dev-9.4
+
+
+
+
+for libserial
 //libserialport-dev
 //libserialport0
 

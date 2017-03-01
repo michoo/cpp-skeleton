@@ -1,3 +1,6 @@
+#example of other skeleton integration
+
+
 https://github.com/huawei-noah/streamDM-Cpp
 
 https://github.com/LiTHehack/CMake
