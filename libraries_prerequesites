@@ -7,22 +7,58 @@ postgresql-server-dev-9.4
 
 
 
+#Installation of dependencies for sfm compilation
 
-for libserial
-//libserialport-dev
-//libserialport0
+```
+sudo apt-get install libeigen3-dev libgflags-dev libgoogle-glog-dev
 
-https://sourceforge.net/projects/libserial/
-need to install python-sip-dev and python-sip
-python3-sip-dev and python3-sip
+# CMake
+sudo apt-get install cmake
+# google-glog + gflags
+sudo apt-get install libgoogle-glog-dev
+# BLAS & LAPACK
+sudo apt-get install libatlas-base-dev
+# Eigen3
+sudo apt-get install libeigen3-dev
+# SuiteSparse and CXSparse (optional)
+# - If you want to build Ceres as a *static* library (the default)
+#   you can use the SuiteSparse package in the main Ubuntu package
+#   repository:
+sudo apt-get install libsuitesparse-dev
+# - However, if you want to build Ceres as a *shared* library, you must
+#   add the following PPA:
+sudo add-apt-repository ppa:bzindovic/suitesparse-bugfix-1319687
+sudo apt-get update
+sudo apt-get install libsuitesparse-dev
 
-wget http://downloads.sourceforge.net/project/libserial/libserial/0.6.0rc2/libserial-0.6.0rc2.tar.gz?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flibserial%2Ffiles%2Flibserial%2F0.6.0rc2%2F&ts=1471845141&use_mirror=pilotfiber
 
-tar -xf libserial-0.6.0rc2.tar.gz
-cd libserial-0.6.0rc2
-./configure
-make
-make install
-cd ..
-rm libserial-0.6.0rc2.tar.gz
-rm -d libserial-0.6.0rc2
+git clone https://ceres-solver.googlesource.com/ceres-solver
+cd ceres-solver
+mkdir build && cd build
+cmake ..
+make -j4
+make test
+sudo make install
+
+
+sudo apt-get install libvtk5-dev
+
+```
+
+
+
+#build of opencv contrib modules as sfm
+
+```
+git clone https://github.com/opencv/opencv.git
+git clone https://github.com/opencv/opencv_contrib
+
+cd opencv
+
+mkdir build
+
+cmake -DWITH_VTK=ON -DOPENCV_EXTRA_MODULES_PATH=../../opencv_contrib/modules -DBUILD_opencv_legacy=OFF ..
+
+
+```
+

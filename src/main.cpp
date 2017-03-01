@@ -24,6 +24,11 @@ void Main::start(){
     printf("\n\n");
 
     LOG(DEBUG) << "---- Debug mode ----";
+
+    Calibration test;
+    test.calibrate();
+
+
 }
 
 
