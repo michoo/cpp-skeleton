@@ -1,0 +1,23 @@
+libboost-all-dev
+libusb-1.0-0-dev
+doxygen
+libpqxx-4.0
+libpqxx-dev
+postgresql-server-dev-9.4
+//libserialport-dev
+//libserialport0
+
+https://sourceforge.net/projects/libserial/
+need to install python-sip-dev and python-sip
+python3-sip-dev and python3-sip
+
+wget http://downloads.sourceforge.net/project/libserial/libserial/0.6.0rc2/libserial-0.6.0rc2.tar.gz?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flibserial%2Ffiles%2Flibserial%2F0.6.0rc2%2F&ts=1471845141&use_mirror=pilotfiber
+
+tar -xf libserial-0.6.0rc2.tar.gz
+cd libserial-0.6.0rc2
+./configure
+make
+make install
+cd ..
+rm libserial-0.6.0rc2.tar.gz
+rm -d libserial-0.6.0rc2

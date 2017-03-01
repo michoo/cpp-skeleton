@@ -1,0 +1,126 @@
+2017-03-01 15:57:48,348 [main] DEBUG ---- Debug mode ----
+2017-03-01 15:57:48,348 [main] TRACE key:thread.number|value:4
+2017-03-01 15:57:48,348 [main] TRACE key:postgresql.url|value:dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:57:48,348 [main] TRACE key:postgresql.pool.size|value:3
+2017-03-01 15:57:48,348 [main] TRACE key:chessboard.square.size.cm|value:2.54
+2017-03-01 15:57:48,348 [main] TRACE key:chessboard.width|value:12
+2017-03-01 15:57:48,348 [main] TRACE key:chessboard.height|value:8
+2017-03-01 15:57:48,348 [main] TRACE Properties instanciation
+2017-03-01 15:57:48,348 [main] TRACE chessboard.height=8
+2017-03-01 15:57:48,348 [main] TRACE chessboard.square.size.cm=2.54
+2017-03-01 15:57:48,348 [main] TRACE chessboard.width=12
+2017-03-01 15:57:48,348 [main] TRACE postgresql.pool.size=3
+2017-03-01 15:57:48,348 [main] TRACE postgresql.url=dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:57:48,348 [main] TRACE thread.number=4
+2017-03-01 15:57:48,348 [default] TRACE Consumer Thread:0 is alive now!
+2017-03-01 15:57:48,348 [default] TRACE Consumer Thread:1 is alive now!
+2017-03-01 15:57:48,348 [default] TRACE Consumer Thread:2 is alive now!
+2017-03-01 15:57:48,348 [default] TRACE Consumer Thread:3 is alive now!
+2017-03-01 15:57:48,348 [default] TRACE Consumer Thread:4 is alive now!
+2017-03-01 15:57:48,348 [default] TRACE Consumer Thread:5 is alive now!
+2017-03-01 15:57:48,348 [default] TRACE ThreadPool instanciation
+2017-03-01 15:58:12,524 [main] DEBUG ---- Debug mode ----
+2017-03-01 15:58:12,524 [main] TRACE key:thread.number|value:4
+2017-03-01 15:58:12,524 [main] TRACE key:postgresql.url|value:dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:58:12,524 [main] TRACE key:postgresql.pool.size|value:3
+2017-03-01 15:58:12,524 [main] TRACE key:chessboard.square.size.cm|value:2.54
+2017-03-01 15:58:12,524 [main] TRACE key:chessboard.width|value:12
+2017-03-01 15:58:12,524 [main] TRACE key:chessboard.height|value:8
+2017-03-01 15:58:12,525 [main] TRACE Properties instanciation
+2017-03-01 15:58:12,525 [main] TRACE chessboard.height=8
+2017-03-01 15:58:12,525 [main] TRACE chessboard.square.size.cm=2.54
+2017-03-01 15:58:12,525 [main] TRACE chessboard.width=12
+2017-03-01 15:58:12,525 [main] TRACE postgresql.pool.size=3
+2017-03-01 15:58:12,525 [main] TRACE postgresql.url=dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:58:12,525 [main] TRACE thread.number=4
+2017-03-01 15:58:12,525 [default] TRACE Consumer Thread:0 is alive now!
+2017-03-01 15:58:12,525 [default] TRACE Consumer Thread:1 is alive now!
+2017-03-01 15:58:12,525 [default] TRACE Consumer Thread:2 is alive now!
+2017-03-01 15:58:12,525 [default] TRACE Consumer Thread:3 is alive now!
+2017-03-01 15:58:12,525 [default] TRACE Consumer Thread:4 is alive now!
+2017-03-01 15:58:12,525 [default] TRACE Consumer Thread:5 is alive now!
+2017-03-01 15:58:12,525 [default] TRACE ThreadPool instanciation
+2017-03-01 15:58:30,128 [main] DEBUG ---- Debug mode ----
+2017-03-01 15:58:30,128 [main] TRACE key:thread.number|value:4
+2017-03-01 15:58:30,129 [main] TRACE key:postgresql.url|value:dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:58:30,129 [main] TRACE key:postgresql.pool.size|value:3
+2017-03-01 15:58:30,129 [main] TRACE key:chessboard.square.size.cm|value:2.54
+2017-03-01 15:58:30,129 [main] TRACE key:chessboard.width|value:12
+2017-03-01 15:58:30,129 [main] TRACE key:chessboard.height|value:8
+2017-03-01 15:58:30,129 [main] TRACE Properties instanciation
+2017-03-01 15:58:30,129 [main] TRACE chessboard.height=8
+2017-03-01 15:58:30,129 [main] TRACE chessboard.square.size.cm=2.54
+2017-03-01 15:58:30,129 [main] TRACE chessboard.width=12
+2017-03-01 15:58:30,129 [main] TRACE postgresql.pool.size=3
+2017-03-01 15:58:30,129 [main] TRACE postgresql.url=dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:58:30,129 [main] TRACE thread.number=4
+2017-03-01 15:58:30,129 [default] TRACE Consumer Thread:0 is alive now!
+2017-03-01 15:58:30,129 [default] TRACE Consumer Thread:1 is alive now!
+2017-03-01 15:58:30,129 [default] TRACE Consumer Thread:2 is alive now!
+2017-03-01 15:58:30,129 [default] TRACE Consumer Thread:3 is alive now!
+2017-03-01 15:58:30,129 [default] TRACE Consumer Thread:4 is alive now!
+2017-03-01 15:58:30,129 [default] TRACE Consumer Thread:5 is alive now!
+2017-03-01 15:58:30,129 [default] TRACE ThreadPool instanciation
+2017-03-01 15:58:55,318 [main] DEBUG ---- Debug mode ----
+2017-03-01 15:58:55,318 [main] TRACE key:thread.number|value:4
+2017-03-01 15:58:55,318 [main] TRACE key:postgresql.url|value:dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:58:55,318 [main] TRACE key:postgresql.pool.size|value:3
+2017-03-01 15:58:55,318 [main] TRACE key:chessboard.square.size.cm|value:2.54
+2017-03-01 15:58:55,318 [main] TRACE key:chessboard.width|value:12
+2017-03-01 15:58:55,318 [main] TRACE key:chessboard.height|value:8
+2017-03-01 15:58:55,318 [main] TRACE Properties instanciation
+2017-03-01 15:58:55,318 [main] TRACE chessboard.height=8
+2017-03-01 15:58:55,318 [main] TRACE chessboard.square.size.cm=2.54
+2017-03-01 15:58:55,318 [main] TRACE chessboard.width=12
+2017-03-01 15:58:55,318 [main] TRACE postgresql.pool.size=3
+2017-03-01 15:58:55,318 [main] TRACE postgresql.url=dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 15:58:55,318 [main] TRACE thread.number=4
+2017-03-01 15:58:55,318 [default] TRACE Consumer Thread:0 is alive now!
+2017-03-01 15:58:55,318 [default] TRACE Consumer Thread:1 is alive now!
+2017-03-01 15:58:55,318 [default] TRACE Consumer Thread:2 is alive now!
+2017-03-01 15:58:55,318 [default] TRACE Consumer Thread:3 is alive now!
+2017-03-01 15:58:55,318 [default] TRACE Consumer Thread:4 is alive now!
+2017-03-01 15:58:55,318 [default] TRACE Consumer Thread:5 is alive now!
+2017-03-01 15:58:55,318 [default] TRACE ThreadPool instanciation
+2017-03-01 16:11:04,396 [main] DEBUG ---- Debug mode ----
+2017-03-01 16:11:04,397 [main] TRACE key:thread.number|value:4
+2017-03-01 16:11:04,397 [main] TRACE key:postgresql.url|value:dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 16:11:04,397 [main] TRACE key:postgresql.pool.size|value:3
+2017-03-01 16:11:04,397 [main] TRACE key:chessboard.square.size.cm|value:2.54
+2017-03-01 16:11:04,397 [main] TRACE key:chessboard.width|value:12
+2017-03-01 16:11:04,397 [main] TRACE key:chessboard.height|value:8
+2017-03-01 16:11:04,397 [main] TRACE Properties instanciation
+2017-03-01 16:11:04,397 [main] TRACE chessboard.height=8
+2017-03-01 16:11:04,397 [main] TRACE chessboard.square.size.cm=2.54
+2017-03-01 16:11:04,397 [main] TRACE chessboard.width=12
+2017-03-01 16:11:04,397 [main] TRACE postgresql.pool.size=3
+2017-03-01 16:11:04,397 [main] TRACE postgresql.url=dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 16:11:04,397 [main] TRACE thread.number=4
+2017-03-01 16:11:04,397 [default] TRACE Consumer Thread:0 is alive now!
+2017-03-01 16:11:04,397 [default] TRACE Consumer Thread:1 is alive now!
+2017-03-01 16:11:04,397 [default] TRACE Consumer Thread:2 is alive now!
+2017-03-01 16:11:04,397 [default] TRACE Consumer Thread:3 is alive now!
+2017-03-01 16:11:04,397 [default] TRACE Consumer Thread:4 is alive now!
+2017-03-01 16:11:04,397 [default] TRACE Consumer Thread:5 is alive now!
+2017-03-01 16:11:04,397 [default] TRACE ThreadPool instanciation
+2017-03-01 16:11:12,791 [main] DEBUG ---- Debug mode ----
+2017-03-01 16:11:12,791 [main] TRACE key:thread.number|value:4
+2017-03-01 16:11:12,791 [main] TRACE key:postgresql.url|value:dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 16:11:12,791 [main] TRACE key:postgresql.pool.size|value:3
+2017-03-01 16:11:12,792 [main] TRACE key:chessboard.square.size.cm|value:2.54
+2017-03-01 16:11:12,792 [main] TRACE key:chessboard.width|value:12
+2017-03-01 16:11:12,792 [main] TRACE key:chessboard.height|value:8
+2017-03-01 16:11:12,792 [main] TRACE Properties instanciation
+2017-03-01 16:11:12,792 [main] TRACE chessboard.height=8
+2017-03-01 16:11:12,792 [main] TRACE chessboard.square.size.cm=2.54
+2017-03-01 16:11:12,792 [main] TRACE chessboard.width=12
+2017-03-01 16:11:12,792 [main] TRACE postgresql.pool.size=3
+2017-03-01 16:11:12,792 [main] TRACE postgresql.url=dbname=db_name user=postgres hostaddr=127.0.0.1 port=5432
+2017-03-01 16:11:12,792 [main] TRACE thread.number=4
+2017-03-01 16:11:12,792 [default] TRACE Consumer Thread:0 is alive now!
+2017-03-01 16:11:12,792 [default] TRACE Consumer Thread:1 is alive now!
+2017-03-01 16:11:12,792 [default] TRACE Consumer Thread:2 is alive now!
+2017-03-01 16:11:12,792 [default] TRACE Consumer Thread:3 is alive now!
+2017-03-01 16:11:12,792 [default] TRACE Consumer Thread:4 is alive now!
+2017-03-01 16:11:12,792 [default] TRACE Consumer Thread:5 is alive now!
+2017-03-01 16:11:12,792 [default] TRACE ThreadPool instanciation

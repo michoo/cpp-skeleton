@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googlemock/src/gmock-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googlemock/src/gmock_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googlemock/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googletest/src/gtest_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googletest/src/gtest-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googletest/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Debug/googletest-src/googletest/cmake/internal_utils.cmake" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googlemock/src/gmock-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googlemock/src/gmock_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googlemock/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googletest/src/gtest_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googletest/src/gtest-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googletest/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/MinSizeRel/googletest-src/googletest/cmake/internal_utils.cmake" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googlemock/src/gmock-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googlemock/src/gmock_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googlemock/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googletest/src/gtest_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googletest/src/gtest-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googletest/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/RelWithDebInfo/googletest-src/googletest/cmake/internal_utils.cmake" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googlemock/src/gmock-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googlemock/src/gmock_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googlemock/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googletest/src/gtest_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googletest/src/gtest-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googletest/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/cpp-skeleton-161bfa20/161bfa20/Release/googletest-src/googletest/cmake/internal_utils.cmake" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/controller/database/DatabaseManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/controller/database/DatabaseManager.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/properties/Properties.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/properties/Properties.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/Task.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/ThreadPool.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/ConcurrentQueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/Semaphore.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/ThreadPool.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/Semaphore.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/ConcurrentQueue.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/CriticalSection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/CriticalSection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/thread/Task.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/utils/Common.h.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/Doxyfile.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/PostgresqlTest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/DownloadProject.CMakeLists.cmake.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/SerialTest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/DownloadProject.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/SimpleTest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/modules/FindPQXX.cmake" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.9/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
